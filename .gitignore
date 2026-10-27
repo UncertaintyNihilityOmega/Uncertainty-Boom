@@ -1,0 +1,17 @@
+# Godot cache and exports
+.godot/
+build/
+*.translation
+export_credentials.cfg
+
+# Local only
+*.lnk
+photos-for-inspiration/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+docs/INSPIRATION_NOTES.md
